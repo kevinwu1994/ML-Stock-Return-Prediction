@@ -1,10 +1,10 @@
-# Machine Learning for Cross-Sectional Stock Return Prediction
+# ML-Based Cross-Sectional Equity Return Prediction
 
 ## Project Overview
 
 This project develops a machine learning framework for cross-sectional stock return prediction and portfolio construction.
 
-Using monthly stock prices, macroeconomic variables, and firm-level fundamental factors, the project evaluates whether machine learning models can generate economically meaningful trading signals after transaction costs.
+Using monthly stock prices, macroeconomic variables, and firm-level fundamental factors, the project evaluates whether machine learning models can generate profitable trading signals after transaction costs.
 
 The framework combines:
 
@@ -122,7 +122,7 @@ Several limitations remain:
 * Transaction costs are simplified
 * The out-of-sample period is relatively short
 
-Therefore, the strategy should not be interpreted as production-ready.
+The framework is intended for research and educational purposes.
 
 ---
 
@@ -136,6 +136,11 @@ Potential future improvements include:
 * Point-in-time institutional datasets
 * Live trading integration
 
+---
+## Quick Start
+
+```bash
+pip install -r requirements.txt
 ---
 
 ## Technologies Used
