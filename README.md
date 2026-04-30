@@ -154,15 +154,15 @@ Run all cells to reproduce the results.
 ## Technologies Used
 
 * Python
-* pandas
+* Pandas
 * NumPy
-* scikit-learn
-* matplotlib
-* yfinance
+* Scikit-learn
+* Matplotlib
+* Yfinance
 * Jupyter Notebook
 
 ---
 
 ## Author
-Fenglei Wu
-MS Candidate | Machine Learning & Quantitative Finance
+Fenglei Wu 
+|MS Candidate | Machine Learning & Quantitative Finance
