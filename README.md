@@ -141,7 +141,15 @@ Potential future improvements include:
 
 ```bash
 pip install -r requirements.txt
----
+```
+
+Open:
+
+```text
+notebooks/ML_FinalProject.ipynb
+```
+
+Run all cells to reproduce the results.
 
 ## Technologies Used
 
@@ -157,3 +165,4 @@ pip install -r requirements.txt
 
 ## Author
 Fenglei Wu
+MS Candidate | Machine Learning & Quantitative Finance
